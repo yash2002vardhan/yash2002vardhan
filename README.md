@@ -13,7 +13,8 @@ A undergraduate student studying at BITS Pilani with a passion for Machine Learn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2002vardhan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&width=435&lines=“Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.”)](https://git.io/typing-svg)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yash2002vardhan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
