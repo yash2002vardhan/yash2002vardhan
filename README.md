@@ -1,5 +1,6 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&width=1000&lines=An+undergraduate+student+studying+at+BITS+Pilani;With+a+passion+for+Machine+Learning+and+Artificial+Intelligence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&multiline=true&width=1000&lines=An+undergraduate+student+studying+at+BITS+Pilani+with+a+passion+for+Machine+Learning+and+Artificial+Intelligence.)](https://git.io/typing-svg)
+
 
 
 
