@@ -1,6 +1,18 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&multiline=true&width=1250&lines=Applied+AI+Engineer+%7C+Exploring+LLMs%2C+agents%2C+and+machine+learning+systems.)](https://git.io/typing-svg)
 
+Building production-grade AI systems, agentic workflows, and retrieval pipelines.  
+Currently focused on LLM agents, memory, and scalable ML infra.
+
+---
+
+## 🔭 Currently Working On
+- Building AI agents with memory, tool use, and RAG  
+- Experimenting with vector databases for long-term context retrieval  
+- Designing scalable ML systems for production deployment
+
+---
+
 # 💻 Tech Stack:
 
 ## 🤖 AI / ML / LLMs
@@ -38,11 +50,24 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-### ✍️ Random Dev Quote
+## 📫 Let’s Connect
+- 🌐 Portfolio: https://yash2002vardhan.github.io  
+- 💼 LinkedIn: https://www.linkedin.com/in/yashvardhangoel02/ 
+- ✉️ Email: yash2002goel@gmail.com
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=yash2002vardhan&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yash2002vardhan&theme=tokyonight&hide_border=true)
+
+---
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yash2002vardhan&icon=6&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=yash2002vardhan&icon=6&color=2)](https://visitcount.itsvg.in)
