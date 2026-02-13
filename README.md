@@ -56,26 +56,6 @@ Currently focused on LLM agents, memory, and scalable ML infra.
 - 🌐 Portfolio: https://yash2002vardhan.github.io  
 - 💼 LinkedIn: https://www.linkedin.com/in/yashvardhangoel02/ 
 - ✉️ Email: yash2002goel@gmail.com
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://stats.aks.vercel.app/api?username=yash2002vardhan&show_icons=true&theme=github_dark&hide_border=true" 
-    height="165"
-    alt="Yashvardhan's GitHub stats"
-  />
-  <img 
-    src="https://github-readme-streak-stats.onrender.com/?user=yash2002vardhan&theme=github_dark&hide_border=true" 
-    height="165"
-    alt="Yashvardhan's GitHub streak"
-  />
-</p>
-
-
-
-
 ---
 
 ## ✍️ Random Dev Quote
