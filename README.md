@@ -60,8 +60,7 @@ Currently focused on LLM agents, memory, and scalable ML infra.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yash2002vardhan&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yash2002vardhan&theme=tokyonight&hide_border=true)
+![GitHub Actions](https://img.shields.io/badge/actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
